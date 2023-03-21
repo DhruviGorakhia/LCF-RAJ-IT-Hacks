@@ -1,0 +1,37 @@
+[
+    {
+        "StartupName" : "Small-Cap-Fund",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "web3",
+        "valuation" : "100cr",
+        "risk" : "12%"
+    },
+    {
+        "StartupName" : "Mid-Cap-Fund",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "web3",
+        "valuation" : "100cr",
+        "risk" : "12%"
+    },
+    {
+        "StartupName" : "Large-Cap-Fund",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "web3",
+        "valuation" : "100cr",
+        "risk" : "12%"
+    },
+    {
+        "StartupName" : "Electric Startup Fund",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "web3",
+        "valuation" : "100cr",
+        "risk" : "12%"
+    },
+    {
+        "StartupName" : "Green Startup Fund",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "web3",
+        "valuation" : "100cr",
+        "risk" : "12%"
+    }
+]
